@@ -8,7 +8,7 @@
 
 * Purs recompiles `B` module.
 
-* When `B` doesn't import `A` nothing is recompiled after timestamp modification
+* When `B` doesn't import `A` nothing is recompiled after timestamp modification.
 
 ## Test script
 
